@@ -147,7 +147,7 @@ def pageOperacional():
 
 
      #LOADS DE AGRAVO/DESCONTO
-     import_load_da              = {"chave": [1], "coef_load_DA":                     [1.250000]}
+     import_load_da              = {"chave": [1], "coef_load_DA":                     [1.200000]}
      import_load_do              = {"chave": [1], "coef_load_DO":                     [1.100000]}
      import_load_lucro           = {"chave": [1], "coef_load_lucro":                  [1.100000]}
      import_load_impostos        = {"chave": [1], "coef_load_impostos":               [1.350000]}
@@ -158,8 +158,8 @@ def pageOperacional():
      import_load_iof             = {"chave": [1], "coef_load_iof":                    [1.070000]}
      import_load_inflacaoSin     = {"chave": [1], "coef_load_inflacao_sinistro":      [1.000000]}
      import_load_sinistroJud     = {"chave": [1], "coef_load_sinistro_judicial":      [1.000000]}
-     import_load_carregamentoSeg = {"chave": [1], "coef_load_carregamento_seguranca": [1.010000]}
-     import_load_comCorretor     = {"chave": [1], "coef_load_comissao_corretor":      [1.010000]}
+     import_load_carregamentoSeg = {"chave": [1], "coef_load_carregamento_seguranca": [1.020000]}
+     import_load_comCorretor     = {"chave": [1], "coef_load_comissao_corretor":      [1.150000]}
      import_load_franquia        = {"chave": [1], "coef_load_franquia":               [0.800000]}
 
 
