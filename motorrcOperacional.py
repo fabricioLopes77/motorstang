@@ -147,7 +147,7 @@ def pageOperacional():
 
 
      #LOADS DE AGRAVO/DESCONTO
-     import_load_da              = {"chave": [1], "coef_load_DA":                     [1.200000]}
+     import_load_da              = {"chave": [1], "coef_load_DA":                     [1.000000]}
      import_load_do              = {"chave": [1], "coef_load_DO":                     [1.100000]}
      import_load_lucro           = {"chave": [1], "coef_load_lucro":                  [1.100000]}
      import_load_impostos        = {"chave": [1], "coef_load_impostos":               [1.350000]}
